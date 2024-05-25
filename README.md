@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Alex Colagrande
+### 👋 Hi, I’m Alex 
 
 - 👀 Interested in Mathematics, Machine Learning and everything else that interests me.
 - 🎓 Master 2 student at [Sorbonne](https://www.sorbonne-universite.fr/) in [M2A](https://m2a.lip6.fr/)
