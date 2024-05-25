@@ -8,11 +8,9 @@
 ![PyTorch](https://img.shields.io/badge/Library-PyTorch-orange)
 
 ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-orange)
-
-![Visual Studio](https://img.shields.io/badge/Tool-VS-blue)
-
 ![LaTeX](https://img.shields.io/badge/Tool-LaTeX-green)
 
+![Visual Studio](https://img.shields.io/badge/Tool-VS-blue)
 ![Git](https://img.shields.io/badge/Tool-Git-red)
 
 <!---
