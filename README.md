@@ -1,9 +1,10 @@
-### 👋 Hi, I’m @AlexColagrande
+### 👋 Hi, I’m Alex Colagrande
 
 - 👀 I’m interested in Mathematics, Machine Learning and everything else that interests me.
 - 🎓 Master 2 student at [Sorbonne](https://www.sorbonne-universite.fr/) in [M2A](https://m2a.lip6.fr/)
 - 🌱 I’m currently working on alternatives to backpropagation for my master's stage.
-- 
+
+
 #### Languages and Tools
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
