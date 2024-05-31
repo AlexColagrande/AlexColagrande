@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Alex 
 
 - 👀 Interested in Mathematics, Machine Learning and everything else that interests me.
-- 🎓 Master 2 student at [Sorbonne](https://www.sorbonne-universite.fr/) in [M2A](https://m2a.lip6.fr/)
+- 🎓 Master 2 student at [Sorbonne](https://www.sorbonne-universite.fr/) in [M2A](https://m2a.lip6.fr/).
 - 🌱 Currently working on alternatives to backpropagation for my master's stage.
 
 
